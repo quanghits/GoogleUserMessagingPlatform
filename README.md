@@ -23,3 +23,8 @@ rm -rf "${TARGET_BUILD_DIR}/${PRODUCT_NAME}.app/AppClips/AppClip.app/UserMessagi
 https://developers.google.com/admob/ump/ios/download  
 There are release notes, terms of service, SDK binary and more.  
 You can download official xcframework and construct your own Swift package safely.  
+
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :)
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/puzzlelite)
