@@ -6,7 +6,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "GoogleUserMessagingPlatform-SPM",
+    name: "GoogleUserMessagingPlatform",
     platforms: [
         .iOS(.v9)
     ],
