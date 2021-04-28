@@ -8,6 +8,7 @@ For security reasons, I hope that Google will officially provide the package.
 
 - Add the `-ObjC` option to `Other Linker Flags` in the `Build Settings` tab of the host project.
 
+
 ## Workaround for Xcode 12.0...12.4
 
 - There is an issue with device installation or archive uploading, see the discussion and various workaround scripts in official Firebase SPM  
