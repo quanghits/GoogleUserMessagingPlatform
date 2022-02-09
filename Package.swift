@@ -29,8 +29,5 @@ let package = Package(
         .binaryTarget(
             name: "UserMessagingPlatform",
             path: "Binary/UserMessagingPlatform.xcframework"),
-//        .binaryTarget(name: "UserMessagingPlatform",
-//                      url: "",
-//                      checksum: ""),
     ]
 )
